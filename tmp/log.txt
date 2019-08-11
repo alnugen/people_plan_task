@@ -1,0 +1,24 @@
+SUCCESSS | TEST001 inserted successfully |2019-08-11 13:21:10
+SUCCESSS | TEST002 inserted successfully |2019-08-11 13:21:10
+SUCCESSS | TEST003 inserted successfully |2019-08-11 13:21:10
+ERROR | Skipping: TEST001 already exits | 2019-08-11 13:21:10
+SUCCESSS | TEST004 inserted successfully |2019-08-11 13:21:10
+SUCCESSS | TEST005 inserted successfully |2019-08-11 13:21:10
+SUCCESSS | TEST006 inserted successfully |2019-08-11 13:21:10
+ERROR | Skipping: TEST004 already exits | 2019-08-11 13:21:10
+ERROR | Skipping: TEST001 already exits | 2019-08-11 13:21:17
+ERROR | Skipping: TEST002 already exits | 2019-08-11 13:21:17
+ERROR | Skipping: TEST003 already exits | 2019-08-11 13:21:17
+ERROR | Skipping: TEST001 already exits | 2019-08-11 13:21:17
+ERROR | Skipping: TEST004 already exits | 2019-08-11 13:21:17
+ERROR | Skipping: TEST005 already exits | 2019-08-11 13:21:17
+ERROR | Skipping: TEST006 already exits | 2019-08-11 13:21:17
+ERROR | Skipping: TEST004 already exits | 2019-08-11 13:21:17
+ERROR | Skipping: TEST001 already exits | 2019-08-11 13:22:31
+ERROR | Skipping: TEST002 already exits | 2019-08-11 13:22:31
+ERROR | Skipping: TEST003 already exits | 2019-08-11 13:22:31
+ERROR | Skipping: TEST001 already exits | 2019-08-11 13:22:31
+ERROR | Skipping: TEST004 already exits | 2019-08-11 13:22:31
+ERROR | Skipping: TEST005 already exits | 2019-08-11 13:22:31
+ERROR | Skipping: TEST006 already exits | 2019-08-11 13:22:31
+ERROR | Skipping: TEST004 already exits | 2019-08-11 13:22:31
